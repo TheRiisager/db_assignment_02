@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="model.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.0192238"
+     inkscape:cx="271.28488"
+     inkscape:cy="416.00285"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Arrow1"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1"
+       markerWidth="4.0606599"
+       markerHeight="6.7071061"
+       viewBox="0 0 4.0606602 6.7071068"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         id="path5057"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc" />
+    </marker>
+    <rect
+       x="389.37604"
+       y="226.11417"
+       width="113.82743"
+       height="41.815292"
+       id="rect1990" />
+    <rect
+       x="119.79666"
+       y="103.16904"
+       width="90.015652"
+       height="36.603295"
+       id="rect1833" />
+    <rect
+       x="101.8839"
+       y="61.555818"
+       width="153.58602"
+       height="64.062603"
+       id="rect550" />
+    <rect
+       x="101.8839"
+       y="61.555817"
+       width="153.58601"
+       height="64.062607"
+       id="rect550-3" />
+    <rect
+       x="101.8839"
+       y="61.555817"
+       width="153.58601"
+       height="64.062607"
+       id="rect550-3-5" />
+    <rect
+       x="119.79666"
+       y="103.16904"
+       width="90.015656"
+       height="36.603294"
+       id="rect1833-6" />
+    <rect
+       x="101.8839"
+       y="61.555817"
+       width="153.58601"
+       height="64.062607"
+       id="rect550-3-9" />
+    <rect
+       x="101.8839"
+       y="61.555817"
+       width="153.58601"
+       height="64.062607"
+       id="rect550-3-0" />
+    <rect
+       x="389.37604"
+       y="226.11417"
+       width="113.82743"
+       height="41.815292"
+       id="rect1990-6" />
+    <rect
+       x="389.37604"
+       y="226.11417"
+       width="113.82743"
+       height="41.815292"
+       id="rect1990-6-6" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g834"
+       inkscape:export-filename="model.png"
+       inkscape:export-xdpi="254"
+       inkscape:export-ydpi="254">
+      <circle
+         style="fill:#916f6f;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+         id="path234"
+         cx="105"
+         cy="34.994591"
+         r="13.473014" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,71.88773,15.569352)"
+         id="text548"
+         style="font-size:21.3333px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';white-space:pre;shape-inside:url(#rect550)"><tspan
+           x="101.88477"
+           y="80.714211"
+           id="tspan2987"><tspan
+             style="fill:#ffffff"
+             id="tspan2985">Host</tspan></tspan></text>
+    </g>
+    <g
+       id="g829"
+       transform="translate(39.210966,-16.733354)">
+      <circle
+         style="fill:#916f6f;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+         id="path234-6"
+         cx="38.843006"
+         cy="93.124458"
+         r="13.473014" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,3.5068274,73.129136)"
+         id="text548-7"
+         style="font-size:21.3333px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';white-space:pre;shape-inside:url(#rect550-3);display:inline"><tspan
+           x="101.88477"
+           y="80.714211"
+           id="tspan2991"><tspan
+             style="fill:#ffffff"
+             id="tspan2989">Listing</tspan></tspan></text>
+    </g>
+    <g
+       id="g829-1"
+       transform="translate(83.633786,21.873518)">
+      <circle
+         style="fill:#916f6f;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+         id="path234-6-2"
+         cx="38.843006"
+         cy="93.124458"
+         r="13.473014" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,3.5068274,73.129136)"
+         id="text548-7-7"
+         style="font-size:21.3333px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';white-space:pre;shape-inside:url(#rect550-3-9);display:inline"><tspan
+           x="101.88477"
+           y="80.714211"
+           id="tspan2995"><tspan
+             style="fill:#ffffff"
+             id="tspan2993">Listing</tspan></tspan></text>
+    </g>
+    <g
+       id="g829-9"
+       transform="translate(116.43437,-16.733354)">
+      <circle
+         style="fill:#916f6f;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+         id="path234-6-36"
+         cx="38.843006"
+         cy="93.124458"
+         r="13.473014" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,3.5068274,73.129136)"
+         id="text548-7-0"
+         style="font-size:21.3333px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';white-space:pre;shape-inside:url(#rect550-3-0);display:inline"><tspan
+           x="101.88477"
+           y="80.714211"
+           id="tspan2999"><tspan
+             style="fill:#ffffff"
+             id="tspan2997">Listing</tspan></tspan></text>
+    </g>
+    <g
+       id="g1841"
+       transform="translate(17.878072,-15.645618)">
+      <circle
+         style="fill:#916f6f;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+         id="path234-6-3"
+         cx="38.843006"
+         cy="136.39436"
+         r="13.473014" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,2.6770978,117.01146)"
+         id="text548-7-5"
+         style="font-size:21.3333px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';white-space:pre;shape-inside:url(#rect550-3-5);display:inline;fill:#ffffff"><tspan
+           x="101.88477"
+           y="80.714211"
+           id="tspan3001">Review</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1)"
+       d="M 98.070798,46.549169 84.542126,64.583227"
+       id="path1829" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.15810283,-0.2121505,0.2121505,0.15810283,44.606034,66.08439)"
+       id="text1831"
+       style="font-size:13.3333px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';white-space:pre;shape-inside:url(#rect1833);stroke-width:0.245669;stroke-dasharray:none"><tspan
+         x="119.79688"
+         y="115.14339"
+         id="tspan3003">hosts</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.11264803,-0.23940502,0.23940502,0.11264803,23.172823,117.4992)"
+       id="text1831-2"
+       style="font-size:13.3333px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';white-space:pre;shape-inside:url(#rect1833-6);display:inline;stroke-width:0.245669;stroke-dasharray:none"><tspan
+         x="119.79688"
+         y="115.14339"
+         id="tspan3005">reviews</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1)"
+       d="M 61.62083,108.19827 71.423093,88.119425"
+       id="path1843" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 91.526986,76.391102 H 141.80436"
+       id="path1980" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,7.0901911,12.041598)"
+       id="text1988"
+       style="font-size:13.3333px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';white-space:pre;shape-inside:url(#rect1990)"><tspan
+         x="389.37695"
+         y="238.08675"
+         id="tspan3007">distance</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.18154291,-0.19247471,0.19247471,0.18154291,19.876728,134.07323)"
+       id="text1988-2"
+       style="font-size:13.3333px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';white-space:pre;shape-inside:url(#rect1990-6);display:inline"><tspan
+         x="389.37695"
+         y="238.08675"
+         id="tspan3009">distance</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.16055133,0.21030362,-0.21030362,0.16055133,87.903433,-33.052842)"
+       id="text1988-2-1"
+       style="font-size:13.3333px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';white-space:pre;shape-inside:url(#rect1990-6-6);display:inline"><tspan
+         x="389.37695"
+         y="238.08675"
+         id="tspan3011">distance</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 91.526986,76.391102 113.11576,105.30813"
+       id="path1994" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 150.39357,88.947799 133.0744,106.67855"
+       id="path1996" />
+  </g>
+</svg>
