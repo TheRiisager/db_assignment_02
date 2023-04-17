@@ -21,4 +21,7 @@ A configurable radius for the recommendations can be set, by traversing the grap
 ## SQL comparison
 To accomplish a similar proximity recommendations query in a relational database, one would need to query a larger amount of data, since one would need to check every listing, at least within a broad geographical location, in order to figure out if it's close. Some SQL databases come with geospatial functionality, but it would still be a larger operation than simply following the relationships in a graph database.<br>
 The process of insertion would, however, be more complex in a graph database. Since, in a relational database, a new row would simply be inserted, whereas the graph database would need to create the relationships between nodes whenever a new node is inserted.
-This means that the graph solution lends itself well to cases like this, where the read performance is prioritized over write performance. For example in this scenario, there will most likely be vastly more people wanting to browse listings on airbnb than there are hosts who create listings. 
+This means that the graph solution lends itself well to cases like this, where the read performance is prioritized over write performance. For example in this scenario, there will most likely be vastly more people wanting to browse listings on airbnb than there are hosts who create listings.
+
+
+For a task like this, one might create a low priority background process, that builds the distance relationships between nodes, since this data is not time sensitive.
