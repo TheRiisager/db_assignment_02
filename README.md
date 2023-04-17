@@ -9,4 +9,4 @@ The model for the database consists of the following entities:
 * Listing - a listing for an accomodation
 * Review - a review of a listing
 
-
+![database model](/graphics/model.png)
