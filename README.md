@@ -10,3 +10,10 @@ The model for the database consists of the following entities:
 * Review - a review of a listing
 
 ![database model](/graphics/model.png)
+
+As shown, besides the obvious relations between the host, listing, and review, listings have a weighted relationship for distance, which stores how far away from each other they are.
+
+## Database operations
+A use for the distance relationship could be proximity based recommendations for users, when browsing Airbnb listings. If a user is looking at one listing in an area, it might be useful to show other listings that are close by. <br>
+You would do this by following each relationship between listings that are below a set distance. 
+A configurable radius for the recommendations can be set, by traversing the graph and adding the distances until it exceeds a maximum.
